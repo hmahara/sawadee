@@ -1,0 +1,15 @@
+spring:
+
+  application:
+    name: sawadee
+
+#  kafka:
+#    bootstrap-servers: www.google.com:9092   
+
+server:
+  port: 2018
+
+kafka:
+  enabled: false
+  
+
